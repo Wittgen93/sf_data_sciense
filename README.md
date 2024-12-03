@@ -12,4 +12,7 @@
 
 - [Моё резюме (PDF)](https://example.com/resume.pdf)
 - [Профиль на LinkedIn](https://www.linkedin.com/in/username/)
+<<<<<<< HEAD
 
+=======
+>>>>>>> c81a8efa83a2f7e5415fe0b18a33519d751baaac
